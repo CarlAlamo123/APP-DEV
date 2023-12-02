@@ -23,5 +23,4 @@ The movie can be watched through various streaming platforms or purchased on DVD
 ## Contributing (Fan Community)
 Fans can contribute to the movie's community by discussing its themes, impact, and sharing their interpretations and experiences related to the film.
 
-## License
-This document is a fan-made overview of "Never Back Down" and does not hold any official licensing.
+
